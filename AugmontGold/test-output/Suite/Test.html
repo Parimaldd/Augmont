@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Fri Jul 19 16:32:03 IST 2024</td>
+<td>Started on:</td><td>Fri Jul 19 17:44:02 IST 2024</td>
 </tr>
-<tr><td>Total time:</td><td>60 seconds (60161 ms)</td>
+<tr><td>Total time:</td><td>111 seconds (111970 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -77,15 +77,15 @@ function toggleAllBoxes() {
 </tr>
 <tr>
 <td title='com.inetBanking.testcases.LoginTest.loginTest()'><b>loginTest</b><br>Test class: com.inetBanking.testcases.LoginTest</td>
-<td><div><pre>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;span class=&quot;mdc-button__label&quot;&gt;...&lt;/span&gt; is not clickable at point (741, 570). Other element would receive the click: &lt;app-button _ngcontent-ng-c2135982524=&quot;&quot; _nghost-ng-c1810444523=&quot;&quot; ng-reflect-type=&quot;submit&quot; ng-reflect-value=&quot;Generate OTP&quot; ng-reflect-is-disabled=&quot;true&quot; class=&quot;ng-star-inserted&quot;&gt;...&lt;/app-button&gt;
+<td><div><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
   (Session info: MicrosoftEdge=126.0.2592.102)
 Build info: version: &apos;4.18.1&apos;, revision: &apos;b1d3319b48&apos;
 System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.2&apos;
 Driver info: org.openqa.selenium.edge.EdgeDriver
-Command: [2a46113eefe2cae87b9c6654d0e900a9, clickElement {id=f.DA85CD3E154963A3D989F82C783A7CCB.d.CA728227A2B42571205F06A9F94E0E11.e.136}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.102, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50584}, msedge: {msedgedriverVersion: 126.0.2592.113 (088a59f7406..., userDataDir: C:\Users\Mrunal\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50584/devtoo..., se:cdpVersion: 126.0.2592.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[EdgeDriver: MicrosoftEdge on windows (2a46113eefe2cae87b9c6654d0e900a9)] -&gt; xpath: //*[text()=&apos;Generate OTP&apos;]]
-Session ID: 2a46113eefe2cae87b9c6654d0e900a9
+Command: [411d08a3f5f1c68d34486a4fdfb90994, clickElement {id=f.1039494215190310EB99767EB8304BAA.d.0E1D56E2FF205F50CDFB34B911B338AD.e.126}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.102, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51358}, msedge: {msedgedriverVersion: 126.0.2592.113 (088a59f7406..., userDataDir: C:\Users\Mrunal\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51358/devtoo..., se:cdpVersion: 126.0.2592.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (411d08a3f5f1c68d34486a4fdfb90994)] -&gt; xpath: //*[@id=&apos;dropdown-menu-item2&apos;]/a[text()=&apos;DIGI Gold&apos;]]
+Session ID: 411d08a3f5f1c68d34486a4fdfb90994
 	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
@@ -95,18 +95,18 @@ Session ID: 2a46113eefe2cae87b9c6654d0e900a9
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
 	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
 	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
-	at com.inetBanking.testcases.LoginTest.loginTest(LoginTest.java:44)
+	at com.inetBanking.testcases.LoginTest.loginTest(LoginTest.java:54)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace793269462", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace793269462'><pre>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;span class=&quot;mdc-button__label&quot;&gt;...&lt;/span&gt; is not clickable at point (741, 570). Other element would receive the click: &lt;app-button _ngcontent-ng-c2135982524=&quot;&quot; _nghost-ng-c1810444523=&quot;&quot; ng-reflect-type=&quot;submit&quot; ng-reflect-value=&quot;Generate OTP&quot; ng-reflect-is-disabled=&quot;true&quot; class=&quot;ng-star-inserted&quot;&gt;...&lt;/app-button&gt;
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1817154869", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1817154869'><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
   (Session info: MicrosoftEdge=126.0.2592.102)
 Build info: version: &apos;4.18.1&apos;, revision: &apos;b1d3319b48&apos;
 System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.2&apos;
 Driver info: org.openqa.selenium.edge.EdgeDriver
-Command: [2a46113eefe2cae87b9c6654d0e900a9, clickElement {id=f.DA85CD3E154963A3D989F82C783A7CCB.d.CA728227A2B42571205F06A9F94E0E11.e.136}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.102, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50584}, msedge: {msedgedriverVersion: 126.0.2592.113 (088a59f7406..., userDataDir: C:\Users\Mrunal\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50584/devtoo..., se:cdpVersion: 126.0.2592.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[EdgeDriver: MicrosoftEdge on windows (2a46113eefe2cae87b9c6654d0e900a9)] -&gt; xpath: //*[text()=&apos;Generate OTP&apos;]]
-Session ID: 2a46113eefe2cae87b9c6654d0e900a9
+Command: [411d08a3f5f1c68d34486a4fdfb90994, clickElement {id=f.1039494215190310EB99767EB8304BAA.d.0E1D56E2FF205F50CDFB34B911B338AD.e.126}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.102, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51358}, msedge: {msedgedriverVersion: 126.0.2592.113 (088a59f7406..., userDataDir: C:\Users\Mrunal\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51358/devtoo..., se:cdpVersion: 126.0.2592.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (411d08a3f5f1c68d34486a4fdfb90994)] -&gt; xpath: //*[@id=&apos;dropdown-menu-item2&apos;]/a[text()=&apos;DIGI Gold&apos;]]
+Session ID: 411d08a3f5f1c68d34486a4fdfb90994
 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
@@ -119,7 +119,7 @@ Session ID: 2a46113eefe2cae87b9c6654d0e900a9
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
 	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
 	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
-	at com.inetBanking.testcases.LoginTest.loginTest(LoginTest.java:44)
+	at com.inetBanking.testcases.LoginTest.loginTest(LoginTest.java:54)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
@@ -147,7 +147,7 @@ Session ID: 2a46113eefe2cae87b9c6654d0e900a9
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
 </pre></div></td>
-<td>21</td>
+<td>72</td>
 <td>com.inetBanking.testcases.LoginTest@4c402120</td></tr>
 </table><p>
 </body>

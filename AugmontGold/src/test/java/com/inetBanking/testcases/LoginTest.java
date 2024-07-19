@@ -47,6 +47,7 @@ public class LoginTest extends BaseClass {
 		log.info("Enter OTP");
 		obj.Click_Submit_Button().click();
 		log.info("Click submit button");
+		Thread.sleep(5000);
 		Actions ac = new Actions(driver);
 		ac.moveToElement(driver.findElement(By.xpath("//*[text()=' Products ']"))).build().perform();
 		Thread.sleep(5000);

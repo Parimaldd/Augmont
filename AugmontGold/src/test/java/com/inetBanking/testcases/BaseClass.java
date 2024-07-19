@@ -42,7 +42,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 		log = Logger.getLogger("AugmontGold");
 		PropertyConfigurator.configure("log4j.properties");
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(40));
 		log.info("Browser started");
 		driver.get(URL);
 		
