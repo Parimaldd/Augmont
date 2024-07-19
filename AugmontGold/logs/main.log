@@ -1,0 +1,1112 @@
+2024-07-14 15:40:51,369 +0530 [main] INFO  (BaseClass.java:28) - chrome started
+2024-07-14 15:41:25,881 +0530 [main] INFO  (BaseClass.java:35) - chrome started
+2024-07-14 16:07:01,336 +0530 [main] INFO  (BaseClass.java:28) - chrome started
+2024-07-14 16:07:29,041 +0530 [main] INFO  (BaseClass.java:28) - chrome started
+2024-07-14 16:07:44,075 +0530 [main] INFO  (LoginTest.java:14) - open URL
+2024-07-14 16:08:03,198 +0530 [main] INFO  (LoginTest.java:23) - Navigate to Homepage
+2024-07-14 16:08:03,483 +0530 [main] INFO  (BaseClass.java:35) - chrome started
+2024-07-14 17:14:58,068 +0530 [main] INFO  (BaseClass.java:32) - chrome started
+2024-07-14 17:15:13,156 +0530 [main] INFO  (LoginTest.java:14) - open URL
+2024-07-14 17:15:46,314 +0530 [main] INFO  (LoginTest.java:23) - Navigate to Homepage
+2024-07-14 17:15:46,672 +0530 [main] INFO  (BaseClass.java:39) - chrome started
+2024-07-14 17:16:54,255 +0530 [main] INFO  (BaseClass.java:32) - chrome started
+2024-07-14 17:17:25,768 +0530 [main] INFO  (LoginTest.java:14) - open URL
+2024-07-14 17:17:31,508 +0530 [main] INFO  (LoginTest.java:23) - Navigate to Homepage
+2024-07-14 17:17:31,827 +0530 [main] INFO  (BaseClass.java:39) - chrome started
+2024-07-14 21:10:42,708 +0530 [main] INFO  (BaseClass.java:47) - chrome started
+2024-07-14 21:11:20,033 +0530 [main] INFO  (LoginTest.java:18) - open URL
+2024-07-14 21:11:30,386 +0530 [main] INFO  (LoginTest.java:27) - Navigate to Homepage
+2024-07-14 21:11:31,823 +0530 [main] INFO  (BaseClass.java:57) - chrome started
+2024-07-14 23:04:38,323 +0530 [main] INFO  (BaseClass.java:46) - chrome started
+2024-07-14 23:05:18,151 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-14 23:05:28,794 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-14 23:05:30,257 +0530 [main] INFO  (BaseClass.java:56) - chrome started
+2024-07-14 23:09:54,370 +0530 [main] INFO  (BaseClass.java:46) - chrome started
+2024-07-14 23:10:09,765 +0530 [main] INFO  (BaseClass.java:56) - chrome started
+2024-07-14 23:13:07,280 +0530 [main] INFO  (BaseClass.java:47) - chrome started
+2024-07-14 23:13:10,178 +0530 [main] INFO  (BaseClass.java:57) - chrome started
+2024-07-14 23:13:39,966 +0530 [main] INFO  (BaseClass.java:47) - chrome started
+2024-07-14 23:13:57,337 +0530 [main] INFO  (BaseClass.java:57) - chrome started
+2024-07-14 23:15:18,267 +0530 [main] INFO  (BaseClass.java:48) - chrome started
+2024-07-14 23:15:25,294 +0530 [main] INFO  (BaseClass.java:58) - chrome started
+2024-07-14 23:15:47,257 +0530 [main] INFO  (BaseClass.java:48) - chrome started
+2024-07-14 23:15:58,416 +0530 [main] INFO  (BaseClass.java:58) - chrome started
+2024-07-14 23:16:26,386 +0530 [main] INFO  (BaseClass.java:48) - chrome started
+2024-07-14 23:16:27,227 +0530 [main] INFO  (BaseClass.java:58) - chrome started
+2024-07-14 23:16:56,496 +0530 [main] INFO  (BaseClass.java:48) - chrome started
+2024-07-14 23:16:59,102 +0530 [main] INFO  (BaseClass.java:58) - chrome started
+2024-07-14 23:17:15,368 +0530 [main] INFO  (BaseClass.java:48) - chrome started
+2024-07-14 23:17:25,074 +0530 [main] INFO  (BaseClass.java:58) - chrome started
+2024-07-17 12:16:48,678 +0530 [main] INFO  (BaseClass.java:47) - chrome started
+2024-07-17 12:19:26,977 +0530 [main] INFO  (BaseClass.java:47) - chrome started
+2024-07-17 12:19:36,446 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-17 12:19:42,205 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-17 12:19:43,484 +0530 [main] INFO  (BaseClass.java:57) - chrome started
+2024-07-17 12:20:10,873 +0530 [main] INFO  (BaseClass.java:47) - chrome started
+2024-07-17 12:20:18,241 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-17 12:20:24,185 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-17 12:20:25,482 +0530 [main] INFO  (BaseClass.java:57) - chrome started
+2024-07-18 23:17:06,071 +0530 [main] INFO  (BaseClass.java:52) - chrome started
+2024-07-18 23:17:40,875 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-18 23:17:58,339 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-18 23:17:58,598 +0530 [main] INFO  (BaseClass.java:64) - chrome started
+2024-07-18 23:26:58,145 +0530 [main] INFO  (BaseClass.java:52) - chrome started
+2024-07-18 23:27:31,377 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-18 23:27:35,787 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-18 23:27:36,003 +0530 [main] INFO  (BaseClass.java:64) - chrome started
+2024-07-18 23:34:35,712 +0530 [main] INFO  (BaseClass.java:52) - chrome started
+2024-07-18 23:35:09,892 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-18 23:35:14,294 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-18 23:35:14,544 +0530 [main] INFO  (BaseClass.java:64) - chrome started
+2024-07-18 23:42:34,706 +0530 [main] INFO  (BaseClass.java:52) - chrome started
+2024-07-18 23:43:08,925 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-18 23:43:13,389 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-18 23:43:13,657 +0530 [main] INFO  (BaseClass.java:64) - chrome started
+2024-07-18 23:43:13,707 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:13,710 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2024-07-18 23:43:13,713 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2024-07-18 23:43:13,716 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2024-07-18 23:43:13,717 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2024-07-18 23:43:13,811 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:13,812 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2024-07-18 23:43:13,813 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2024-07-18 23:43:13,814 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2024-07-18 23:43:13,815 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2024-07-18 23:43:13,939 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:13,940 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2024-07-18 23:43:13,940 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2024-07-18 23:43:13,942 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2024-07-18 23:43:13,942 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2024-07-18 23:43:13,954 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:13,955 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2024-07-18 23:43:13,956 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2024-07-18 23:43:13,957 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2024-07-18 23:43:13,958 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2024-07-18 23:43:13,961 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:13,962 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2024-07-18 23:43:13,964 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2024-07-18 23:43:13,965 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2024-07-18 23:43:13,965 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2024-07-18 23:43:13,969 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:13,972 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2024-07-18 23:43:13,973 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2024-07-18 23:43:13,975 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2024-07-18 23:43:13,975 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2024-07-18 23:43:13,979 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-07-18 23:43:13,980 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:13,980 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2024-07-18 23:43:13,981 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2024-07-18 23:43:13,982 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2024-07-18 23:43:13,982 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2024-07-18 23:43:13,991 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:13,992 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2024-07-18 23:43:13,993 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2024-07-18 23:43:13,994 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2024-07-18 23:43:13,995 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2024-07-18 23:43:14,005 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,006 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2024-07-18 23:43:14,007 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2024-07-18 23:43:14,008 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2024-07-18 23:43:14,008 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2024-07-18 23:43:14,009 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,010 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2024-07-18 23:43:14,011 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2024-07-18 23:43:14,012 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2024-07-18 23:43:14,012 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2024-07-18 23:43:14,022 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,022 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2024-07-18 23:43:14,023 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2024-07-18 23:43:14,024 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2024-07-18 23:43:14,024 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2024-07-18 23:43:14,041 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,043 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2024-07-18 23:43:14,044 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2024-07-18 23:43:14,044 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2024-07-18 23:43:14,045 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2024-07-18 23:43:14,056 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,057 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2024-07-18 23:43:14,058 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2024-07-18 23:43:14,058 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2024-07-18 23:43:14,059 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2024-07-18 23:43:14,062 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,062 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2024-07-18 23:43:14,063 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2024-07-18 23:43:14,064 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2024-07-18 23:43:14,064 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2024-07-18 23:43:14,066 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2024-07-18 23:43:14,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2024-07-18 23:43:14,070 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2024-07-18 23:43:14,070 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2024-07-18 23:43:14,073 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,074 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2024-07-18 23:43:14,074 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2024-07-18 23:43:14,075 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2024-07-18 23:43:14,075 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2024-07-18 23:43:14,077 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,078 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2024-07-18 23:43:14,079 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2024-07-18 23:43:14,080 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2024-07-18 23:43:14,080 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2024-07-18 23:43:14,084 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,086 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2024-07-18 23:43:14,088 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2024-07-18 23:43:14,089 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2024-07-18 23:43:14,091 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2024-07-18 23:43:14,142 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,143 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2024-07-18 23:43:14,150 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2024-07-18 23:43:14,154 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2024-07-18 23:43:14,156 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2024-07-18 23:43:14,163 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-18 23:43:14,166 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2024-07-18 23:43:14,168 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2024-07-18 23:43:14,170 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2024-07-18 23:43:14,172 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2024-07-19 00:24:16,408 +0530 [main] INFO  (BaseClass.java:52) - chrome started
+2024-07-19 00:25:02,845 +0530 [main] INFO  (LoginTest.java:23) - open URL
+2024-07-19 00:25:07,533 +0530 [main] INFO  (LoginTest.java:32) - Navigate to Homepage
+2024-07-19 00:25:07,759 +0530 [main] INFO  (BaseClass.java:64) - chrome started
+2024-07-19 00:25:07,785 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:07,788 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2024-07-19 00:25:07,791 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2024-07-19 00:25:07,793 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2024-07-19 00:25:07,794 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2024-07-19 00:25:07,883 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:07,886 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2024-07-19 00:25:07,890 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2024-07-19 00:25:07,892 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2024-07-19 00:25:07,893 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2024-07-19 00:25:08,065 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,066 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2024-07-19 00:25:08,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2024-07-19 00:25:08,069 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2024-07-19 00:25:08,071 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2024-07-19 00:25:08,094 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,101 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2024-07-19 00:25:08,106 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2024-07-19 00:25:08,108 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2024-07-19 00:25:08,109 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2024-07-19 00:25:08,117 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,124 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2024-07-19 00:25:08,128 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2024-07-19 00:25:08,131 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2024-07-19 00:25:08,131 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2024-07-19 00:25:08,139 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,142 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2024-07-19 00:25:08,144 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2024-07-19 00:25:08,146 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2024-07-19 00:25:08,147 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2024-07-19 00:25:08,155 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-07-19 00:25:08,156 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,157 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2024-07-19 00:25:08,159 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2024-07-19 00:25:08,161 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2024-07-19 00:25:08,162 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2024-07-19 00:25:08,176 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,181 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2024-07-19 00:25:08,182 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2024-07-19 00:25:08,186 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2024-07-19 00:25:08,186 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2024-07-19 00:25:08,192 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,194 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2024-07-19 00:25:08,196 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2024-07-19 00:25:08,197 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2024-07-19 00:25:08,197 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2024-07-19 00:25:08,199 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,199 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2024-07-19 00:25:08,204 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2024-07-19 00:25:08,206 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2024-07-19 00:25:08,206 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2024-07-19 00:25:08,213 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,214 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2024-07-19 00:25:08,214 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2024-07-19 00:25:08,215 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2024-07-19 00:25:08,215 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2024-07-19 00:25:08,232 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,233 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2024-07-19 00:25:08,234 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2024-07-19 00:25:08,236 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2024-07-19 00:25:08,237 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2024-07-19 00:25:08,255 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,257 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2024-07-19 00:25:08,258 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2024-07-19 00:25:08,259 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2024-07-19 00:25:08,259 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2024-07-19 00:25:08,264 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,265 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2024-07-19 00:25:08,266 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2024-07-19 00:25:08,266 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2024-07-19 00:25:08,271 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2024-07-19 00:25:08,274 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,275 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2024-07-19 00:25:08,277 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2024-07-19 00:25:08,278 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2024-07-19 00:25:08,279 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2024-07-19 00:25:08,283 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,284 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2024-07-19 00:25:08,285 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2024-07-19 00:25:08,286 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2024-07-19 00:25:08,287 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2024-07-19 00:25:08,289 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,291 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2024-07-19 00:25:08,293 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2024-07-19 00:25:08,294 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2024-07-19 00:25:08,294 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2024-07-19 00:25:08,297 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,297 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2024-07-19 00:25:08,299 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2024-07-19 00:25:08,300 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2024-07-19 00:25:08,304 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2024-07-19 00:25:08,380 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,387 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2024-07-19 00:25:08,388 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2024-07-19 00:25:08,390 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2024-07-19 00:25:08,390 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2024-07-19 00:25:08,396 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 00:25:08,398 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2024-07-19 00:25:08,400 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2024-07-19 00:25:08,403 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2024-07-19 00:25:08,404 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2024-07-19 00:53:48,624 +0530 [main] INFO  (BaseClass.java:52) - chrome started
+2024-07-19 00:54:30,885 +0530 [main] INFO  (LoginTest.java:23) - open URL
+2024-07-19 00:54:36,376 +0530 [main] INFO  (LoginTest.java:32) - Navigate to Homepage
+2024-07-19 00:54:37,683 +0530 [main] INFO  (BaseClass.java:64) - chrome started
+2024-07-19 00:58:17,772 +0530 [main] INFO  (BaseClass.java:52) - chrome started
+2024-07-19 00:58:54,949 +0530 [main] INFO  (LoginTest.java:24) - open URL
+2024-07-19 00:59:00,428 +0530 [main] INFO  (LoginTest.java:33) - Navigate to Homepage
+2024-07-19 00:59:01,800 +0530 [main] INFO  (BaseClass.java:64) - chrome started
+2024-07-19 02:02:02,571 +0530 [main] INFO  (BaseClass.java:52) - chrome started
+2024-07-19 02:02:38,976 +0530 [main] INFO  (LoginTest.java:24) - open URL
+2024-07-19 02:02:43,447 +0530 [main] INFO  (LoginTest.java:33) - Navigate to Homepage
+2024-07-19 02:02:44,864 +0530 [main] INFO  (BaseClass.java:64) - chrome started
+2024-07-19 02:14:13,271 +0530 [main] INFO  (BaseClass.java:54) - chrome started
+2024-07-19 02:14:50,643 +0530 [main] INFO  (LoginTest.java:24) - open URL
+2024-07-19 02:14:54,947 +0530 [main] INFO  (LoginTest.java:33) - Navigate to Homepage
+2024-07-19 02:14:56,426 +0530 [main] INFO  (BaseClass.java:67) - chrome started
+2024-07-19 02:38:23,900 +0530 [main] INFO  (BaseClass.java:54) - chrome started
+2024-07-19 02:39:02,189 +0530 [main] INFO  (LoginTest.java:24) - open URL
+2024-07-19 02:39:07,607 +0530 [main] INFO  (LoginTest.java:33) - Navigate to Homepage
+2024-07-19 02:39:14,337 +0530 [main] INFO  (BaseClass.java:67) - chrome started
+2024-07-19 03:28:31,796 +0530 [main] INFO  (BaseClass.java:54) - chrome started
+2024-07-19 03:29:07,943 +0530 [main] INFO  (LoginTest.java:24) - open URL
+2024-07-19 03:29:17,272 +0530 [main] INFO  (LoginTest.java:33) - Navigate to Homepage
+2024-07-19 03:29:17,627 +0530 [main] INFO  (BaseClass.java:67) - chrome started
+2024-07-19 03:29:41,157 +0530 [main] INFO  (BaseClass.java:54) - chrome started
+2024-07-19 03:30:16,252 +0530 [main] INFO  (LoginTest.java:24) - open URL
+2024-07-19 03:30:25,028 +0530 [main] INFO  (LoginTest.java:33) - Navigate to Homepage
+2024-07-19 03:30:25,338 +0530 [main] INFO  (BaseClass.java:67) - chrome started
+2024-07-19 03:54:22,646 +0530 [main] INFO  (BaseClass.java:45) - chrome started
+2024-07-19 03:54:58,958 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 03:55:08,442 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-19 03:55:11,859 +0530 [main] INFO  (BaseClass.java:54) - chrome started
+2024-07-19 03:55:47,364 +0530 [main] INFO  (BaseClass.java:45) - chrome started
+2024-07-19 03:56:24,441 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 03:58:16,543 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-19 03:58:17,909 +0530 [main] INFO  (BaseClass.java:54) - chrome started
+2024-07-19 04:13:20,811 +0530 [main] INFO  (BaseClass.java:44) - Browser started
+2024-07-19 04:13:53,466 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 04:14:02,492 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-19 04:14:02,627 +0530 [main] INFO  (BaseClass.java:52) - chrome started
+2024-07-19 04:14:02,649 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,650 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2024-07-19 04:14:02,651 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2024-07-19 04:14:02,652 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2024-07-19 04:14:02,652 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2024-07-19 04:14:02,711 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,711 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2024-07-19 04:14:02,712 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2024-07-19 04:14:02,713 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2024-07-19 04:14:02,713 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2024-07-19 04:14:02,801 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,802 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2024-07-19 04:14:02,802 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2024-07-19 04:14:02,802 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2024-07-19 04:14:02,803 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2024-07-19 04:14:02,808 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,809 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2024-07-19 04:14:02,810 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2024-07-19 04:14:02,810 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2024-07-19 04:14:02,810 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2024-07-19 04:14:02,812 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,812 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2024-07-19 04:14:02,813 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2024-07-19 04:14:02,813 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2024-07-19 04:14:02,813 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2024-07-19 04:14:02,814 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,815 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2024-07-19 04:14:02,815 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2024-07-19 04:14:02,816 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2024-07-19 04:14:02,816 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2024-07-19 04:14:02,818 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-07-19 04:14:02,819 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,820 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2024-07-19 04:14:02,820 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2024-07-19 04:14:02,820 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2024-07-19 04:14:02,821 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2024-07-19 04:14:02,825 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,825 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2024-07-19 04:14:02,827 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2024-07-19 04:14:02,827 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2024-07-19 04:14:02,827 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2024-07-19 04:14:02,831 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,831 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2024-07-19 04:14:02,832 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2024-07-19 04:14:02,832 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2024-07-19 04:14:02,832 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2024-07-19 04:14:02,833 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,833 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2024-07-19 04:14:02,833 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2024-07-19 04:14:02,834 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2024-07-19 04:14:02,834 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2024-07-19 04:14:02,838 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,838 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2024-07-19 04:14:02,839 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2024-07-19 04:14:02,839 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2024-07-19 04:14:02,839 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2024-07-19 04:14:02,848 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,848 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2024-07-19 04:14:02,849 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2024-07-19 04:14:02,849 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2024-07-19 04:14:02,849 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2024-07-19 04:14:02,856 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,857 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2024-07-19 04:14:02,858 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2024-07-19 04:14:02,858 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2024-07-19 04:14:02,858 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2024-07-19 04:14:02,860 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,861 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2024-07-19 04:14:02,861 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2024-07-19 04:14:02,862 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2024-07-19 04:14:02,862 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2024-07-19 04:14:02,863 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,864 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2024-07-19 04:14:02,865 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2024-07-19 04:14:02,865 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2024-07-19 04:14:02,866 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2024-07-19 04:14:02,867 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,868 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2024-07-19 04:14:02,868 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2024-07-19 04:14:02,869 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2024-07-19 04:14:02,869 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2024-07-19 04:14:02,870 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,870 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2024-07-19 04:14:02,870 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2024-07-19 04:14:02,871 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2024-07-19 04:14:02,871 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2024-07-19 04:14:02,872 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,873 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2024-07-19 04:14:02,873 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2024-07-19 04:14:02,873 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2024-07-19 04:14:02,874 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2024-07-19 04:14:02,901 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,903 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2024-07-19 04:14:02,904 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2024-07-19 04:14:02,905 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2024-07-19 04:14:02,905 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2024-07-19 04:14:02,906 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:14:02,907 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2024-07-19 04:14:02,908 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2024-07-19 04:14:02,909 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2024-07-19 04:14:02,910 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2024-07-19 04:16:40,370 +0530 [main] INFO  (BaseClass.java:44) - Browser started
+2024-07-19 04:17:13,522 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 04:17:23,752 +0530 [main] INFO  (LoginTest.java:29) - Navigate to Homepage
+2024-07-19 04:17:23,897 +0530 [main] INFO  (BaseClass.java:52) - chrome started
+2024-07-19 04:17:23,912 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:23,913 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2024-07-19 04:17:23,914 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2024-07-19 04:17:23,915 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2024-07-19 04:17:23,915 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2024-07-19 04:17:23,955 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:23,956 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2024-07-19 04:17:23,956 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2024-07-19 04:17:23,957 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2024-07-19 04:17:23,957 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2024-07-19 04:17:24,030 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,031 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2024-07-19 04:17:24,031 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2024-07-19 04:17:24,032 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2024-07-19 04:17:24,032 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2024-07-19 04:17:24,037 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,038 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2024-07-19 04:17:24,038 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2024-07-19 04:17:24,038 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2024-07-19 04:17:24,039 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2024-07-19 04:17:24,040 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,040 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2024-07-19 04:17:24,041 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2024-07-19 04:17:24,041 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2024-07-19 04:17:24,042 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2024-07-19 04:17:24,043 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,044 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2024-07-19 04:17:24,045 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2024-07-19 04:17:24,046 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2024-07-19 04:17:24,046 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2024-07-19 04:17:24,050 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-07-19 04:17:24,050 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,051 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2024-07-19 04:17:24,052 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2024-07-19 04:17:24,053 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2024-07-19 04:17:24,053 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2024-07-19 04:17:24,059 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,060 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2024-07-19 04:17:24,062 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2024-07-19 04:17:24,063 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2024-07-19 04:17:24,064 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2024-07-19 04:17:24,066 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2024-07-19 04:17:24,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2024-07-19 04:17:24,068 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2024-07-19 04:17:24,068 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2024-07-19 04:17:24,069 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,070 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2024-07-19 04:17:24,070 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2024-07-19 04:17:24,071 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2024-07-19 04:17:24,071 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2024-07-19 04:17:24,074 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,075 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2024-07-19 04:17:24,075 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2024-07-19 04:17:24,076 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2024-07-19 04:17:24,076 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2024-07-19 04:17:24,084 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,084 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2024-07-19 04:17:24,085 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2024-07-19 04:17:24,085 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2024-07-19 04:17:24,085 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2024-07-19 04:17:24,094 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,094 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2024-07-19 04:17:24,095 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2024-07-19 04:17:24,095 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2024-07-19 04:17:24,096 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2024-07-19 04:17:24,098 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,098 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2024-07-19 04:17:24,099 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2024-07-19 04:17:24,099 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2024-07-19 04:17:24,100 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2024-07-19 04:17:24,101 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,102 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2024-07-19 04:17:24,102 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2024-07-19 04:17:24,103 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2024-07-19 04:17:24,104 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2024-07-19 04:17:24,105 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,105 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2024-07-19 04:17:24,105 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2024-07-19 04:17:24,106 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2024-07-19 04:17:24,106 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2024-07-19 04:17:24,107 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,108 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2024-07-19 04:17:24,108 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2024-07-19 04:17:24,108 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2024-07-19 04:17:24,109 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2024-07-19 04:17:24,110 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,111 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2024-07-19 04:17:24,111 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2024-07-19 04:17:24,112 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2024-07-19 04:17:24,112 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2024-07-19 04:17:24,138 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,140 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2024-07-19 04:17:24,140 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2024-07-19 04:17:24,140 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2024-07-19 04:17:24,141 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2024-07-19 04:17:24,142 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-07-19 04:17:24,143 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2024-07-19 04:17:24,144 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2024-07-19 04:17:24,145 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2024-07-19 04:17:24,145 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Mrunal/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2024-07-19 05:13:14,638 +0530 [main] INFO  (BaseClass.java:42) - Browser started
+2024-07-19 05:13:51,771 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 05:13:53,295 +0530 [main] INFO  (BaseClass.java:50) - Browser closed
+2024-07-19 05:17:34,879 +0530 [main] INFO  (BaseClass.java:42) - Browser started
+2024-07-19 05:17:53,648 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 05:17:53,740 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 05:17:56,450 +0530 [main] INFO  (BaseClass.java:50) - Browser closed
+2024-07-19 05:20:18,093 +0530 [main] INFO  (BaseClass.java:45) - Browser started
+2024-07-19 05:20:55,074 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 05:20:55,170 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 05:21:06,606 +0530 [main] INFO  (BaseClass.java:53) - Browser closed
+2024-07-19 05:22:29,666 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 05:22:49,230 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 05:22:49,300 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 05:22:49,474 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 05:22:51,101 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 05:48:59,948 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 05:49:37,970 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 05:49:38,069 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 05:49:38,326 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 05:49:40,219 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 05:58:08,083 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 05:58:40,319 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 05:58:40,620 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 05:58:41,015 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 05:58:46,352 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 06:02:23,035 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 06:02:54,776 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 06:02:54,982 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 06:02:55,369 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 06:03:00,574 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 06:03:00,698 +0530 [main] INFO  (LoginTest.java:34) - Verify captcha
+2024-07-19 06:03:02,171 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 06:03:34,972 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 06:04:07,494 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 06:04:07,637 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 06:04:07,916 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 06:04:13,112 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 06:04:21,325 +0530 [main] INFO  (LoginTest.java:35) - Verify captcha
+2024-07-19 06:04:22,912 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 06:04:43,441 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 06:05:15,357 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 06:05:15,536 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 06:05:15,823 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 06:05:21,067 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 06:05:33,277 +0530 [main] INFO  (LoginTest.java:35) - Verify captcha
+2024-07-19 06:05:34,920 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 06:05:49,448 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 06:06:21,847 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 06:06:21,967 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 06:06:22,278 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 06:06:27,481 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 06:06:45,727 +0530 [main] INFO  (LoginTest.java:35) - Verify captcha
+2024-07-19 06:06:45,999 +0530 [main] INFO  (LoginTest.java:37) - Generate OTP
+2024-07-19 06:06:46,914 +0530 [main] INFO  (LoginTest.java:39) - Enter OTP
+2024-07-19 06:06:47,227 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 06:46:37,443 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 06:47:09,983 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 06:47:10,255 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 06:47:10,636 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 06:47:15,880 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 06:47:34,108 +0530 [main] INFO  (LoginTest.java:35) - Verify captcha
+2024-07-19 06:47:34,368 +0530 [main] INFO  (LoginTest.java:37) - Click on Generate OTP
+2024-07-19 06:47:35,237 +0530 [main] INFO  (LoginTest.java:39) - Enter OTP
+2024-07-19 06:47:45,622 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 06:52:49,471 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 06:53:22,456 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 06:53:22,831 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 06:53:23,026 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 06:53:28,241 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 06:53:46,486 +0530 [main] INFO  (LoginTest.java:35) - Verify captcha
+2024-07-19 06:53:46,776 +0530 [main] INFO  (LoginTest.java:37) - Click on Generate OTP
+2024-07-19 06:53:47,497 +0530 [main] INFO  (LoginTest.java:39) - Enter OTP
+2024-07-19 06:54:03,021 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 06:56:47,920 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 06:57:20,343 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 06:57:20,466 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 06:57:20,806 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 06:57:26,016 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 06:57:54,479 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 06:58:06,708 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 06:58:39,099 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 06:58:39,271 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 06:58:39,583 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 06:58:44,794 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 06:59:03,005 +0530 [main] INFO  (LoginTest.java:35) - Verify captcha
+2024-07-19 06:59:03,285 +0530 [main] INFO  (LoginTest.java:37) - Click on Generate OTP
+2024-07-19 06:59:04,067 +0530 [main] INFO  (LoginTest.java:39) - Enter OTP
+2024-07-19 06:59:10,644 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 07:05:56,663 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 07:06:29,417 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 07:06:29,550 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 07:06:29,823 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 07:06:35,050 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 07:06:53,265 +0530 [main] INFO  (LoginTest.java:35) - Verify captcha
+2024-07-19 07:06:53,504 +0530 [main] INFO  (LoginTest.java:37) - Click on Generate OTP
+2024-07-19 07:06:54,193 +0530 [main] INFO  (LoginTest.java:39) - Enter OTP
+2024-07-19 07:06:54,326 +0530 [main] INFO  (LoginTest.java:41) - Click submit button
+2024-07-19 07:07:00,915 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 10:23:20,318 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 10:23:54,194 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 10:23:54,309 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 10:23:54,530 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 10:23:59,973 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 10:24:28,263 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 10:24:52,581 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 10:25:26,825 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 10:25:27,033 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 10:25:27,330 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 10:25:32,520 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 10:25:50,718 +0530 [main] INFO  (LoginTest.java:35) - Verify captcha
+2024-07-19 10:25:52,204 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 10:26:05,467 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 10:26:39,801 +0530 [main] INFO  (LoginTest.java:20) - open URL
+2024-07-19 10:26:39,960 +0530 [main] INFO  (LoginTest.java:25) - close advertisement popup
+2024-07-19 10:26:40,272 +0530 [main] INFO  (LoginTest.java:27) - Click on signup button
+2024-07-19 10:26:45,458 +0530 [main] INFO  (LoginTest.java:32) - Enter Mobile number
+2024-07-19 10:27:03,675 +0530 [main] INFO  (LoginTest.java:35) - Verify captcha
+2024-07-19 10:27:03,808 +0530 [main] INFO  (LoginTest.java:37) - Click on Generate OTP
+2024-07-19 10:27:04,385 +0530 [main] INFO  (LoginTest.java:39) - Enter OTP
+2024-07-19 10:27:04,521 +0530 [main] INFO  (LoginTest.java:41) - Click submit button
+2024-07-19 10:27:11,059 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 10:39:52,573 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 10:40:24,717 +0530 [main] INFO  (LoginTest.java:22) - open URL
+2024-07-19 10:40:24,890 +0530 [main] INFO  (LoginTest.java:27) - close advertisement popup
+2024-07-19 10:40:25,213 +0530 [main] INFO  (LoginTest.java:29) - Click on signup button
+2024-07-19 10:40:30,427 +0530 [main] INFO  (LoginTest.java:34) - Enter Mobile number
+2024-07-19 10:40:48,616 +0530 [main] INFO  (LoginTest.java:37) - Verify captcha
+2024-07-19 10:40:50,094 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 10:40:56,693 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 10:41:28,992 +0530 [main] INFO  (LoginTest.java:22) - open URL
+2024-07-19 10:41:39,411 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 10:41:50,071 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 10:42:22,239 +0530 [main] INFO  (LoginTest.java:22) - open URL
+2024-07-19 10:42:22,430 +0530 [main] INFO  (LoginTest.java:27) - close advertisement popup
+2024-07-19 10:42:22,687 +0530 [main] INFO  (LoginTest.java:29) - Click on signup button
+2024-07-19 10:42:27,871 +0530 [main] INFO  (LoginTest.java:34) - Enter Mobile number
+2024-07-19 10:42:46,048 +0530 [main] INFO  (LoginTest.java:37) - Verify captcha
+2024-07-19 10:42:46,281 +0530 [main] INFO  (LoginTest.java:39) - Click on Generate OTP
+2024-07-19 10:42:47,091 +0530 [main] INFO  (LoginTest.java:41) - Enter OTP
+2024-07-19 10:42:47,293 +0530 [main] INFO  (LoginTest.java:43) - Click submit button
+2024-07-19 10:42:53,857 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 10:54:06,106 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 10:54:38,038 +0530 [main] INFO  (LoginTest.java:24) - open URL
+2024-07-19 10:54:38,167 +0530 [main] INFO  (LoginTest.java:29) - close advertisement popup
+2024-07-19 10:54:38,457 +0530 [main] INFO  (LoginTest.java:31) - Click on signup button
+2024-07-19 10:54:43,659 +0530 [main] INFO  (LoginTest.java:36) - Enter Mobile number
+2024-07-19 10:55:01,864 +0530 [main] INFO  (LoginTest.java:39) - Verify captcha
+2024-07-19 10:55:02,038 +0530 [main] INFO  (LoginTest.java:41) - Click on Generate OTP
+2024-07-19 10:55:03,383 +0530 [main] INFO  (LoginTest.java:43) - Enter OTP
+2024-07-19 10:55:03,581 +0530 [main] INFO  (LoginTest.java:45) - Click submit button
+2024-07-19 10:55:10,182 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 11:23:25,794 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 11:23:58,230 +0530 [main] INFO  (LoginTest.java:24) - open URL
+2024-07-19 11:23:58,551 +0530 [main] INFO  (LoginTest.java:29) - close advertisement popup
+2024-07-19 11:23:58,920 +0530 [main] INFO  (LoginTest.java:31) - Click on signup button
+2024-07-19 11:24:04,125 +0530 [main] INFO  (LoginTest.java:36) - Enter Mobile number
+2024-07-19 11:24:22,354 +0530 [main] INFO  (LoginTest.java:39) - Verify captcha
+2024-07-19 11:24:22,575 +0530 [main] INFO  (LoginTest.java:41) - Click on Generate OTP
+2024-07-19 11:24:23,462 +0530 [main] INFO  (LoginTest.java:43) - Enter OTP
+2024-07-19 11:24:23,579 +0530 [main] INFO  (LoginTest.java:45) - Click submit button
+2024-07-19 11:24:30,143 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 11:25:19,535 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 11:25:51,859 +0530 [main] INFO  (LoginTest.java:24) - open URL
+2024-07-19 11:25:52,114 +0530 [main] INFO  (LoginTest.java:29) - close advertisement popup
+2024-07-19 11:25:52,392 +0530 [main] INFO  (LoginTest.java:31) - Click on signup button
+2024-07-19 11:25:57,627 +0530 [main] INFO  (LoginTest.java:36) - Enter Mobile number
+2024-07-19 11:26:15,816 +0530 [main] INFO  (LoginTest.java:39) - Verify captcha
+2024-07-19 11:26:15,974 +0530 [main] INFO  (LoginTest.java:41) - Click on Generate OTP
+2024-07-19 11:26:16,704 +0530 [main] INFO  (LoginTest.java:43) - Enter OTP
+2024-07-19 11:26:16,879 +0530 [main] INFO  (LoginTest.java:45) - Click submit button
+2024-07-19 11:36:01,986 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 11:36:33,907 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 11:36:34,023 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 11:36:34,403 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 11:36:39,625 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 11:36:57,864 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 11:37:19,873 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 11:37:52,529 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 11:37:52,659 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 11:37:52,932 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 11:37:58,133 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 11:38:16,368 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 11:38:16,648 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 11:38:17,373 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 11:38:17,555 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 11:43:13,527 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 11:43:45,634 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 11:43:45,816 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 11:43:46,110 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 11:43:51,316 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 11:44:09,516 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 11:44:09,718 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 11:44:10,468 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 11:44:10,661 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 11:46:28,289 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 11:47:00,600 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 11:47:00,747 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 11:47:01,078 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 11:47:06,331 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 11:47:24,568 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 11:47:24,848 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 11:47:25,800 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 11:47:26,020 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 11:52:04,716 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 11:52:37,879 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 11:52:38,128 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 11:52:38,456 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 11:52:43,696 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 11:53:01,963 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 11:53:02,265 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 11:53:03,327 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 11:53:03,557 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 12:15:39,986 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:16:11,627 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:16:11,728 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:16:11,955 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:16:17,113 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:16:35,386 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:16:35,686 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 12:16:36,464 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 12:16:36,646 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 12:16:41,711 +0530 [main] INFO  (LoginTest.java:59) - Clicked on Digi Gold
+2024-07-19 12:19:14,628 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:19:46,828 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:19:47,000 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:19:47,364 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:19:52,562 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:20:10,771 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:20:19,621 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:20:52,879 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:20:53,025 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:20:53,424 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:20:58,633 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:21:16,838 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:21:17,113 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 12:21:17,844 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 12:21:17,978 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 12:21:23,090 +0530 [main] INFO  (LoginTest.java:59) - Clicked on Digi Gold
+2024-07-19 12:21:56,031 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:22:28,189 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:22:28,327 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:22:28,656 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:22:33,895 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:22:52,118 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:23:13,317 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:23:45,790 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:23:45,974 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:23:46,231 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:23:51,433 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:24:09,675 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:24:09,956 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 12:24:10,835 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 12:24:11,008 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 12:24:16,098 +0530 [main] INFO  (LoginTest.java:59) - Clicked on Digi Gold
+2024-07-19 12:24:26,011 +0530 [main] INFO  (LoginTest.java:62) - Clicked on know more
+2024-07-19 12:24:41,426 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:25:29,672 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:26:02,813 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:26:02,944 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:26:03,152 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:26:08,364 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:26:26,594 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:26:26,876 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 12:26:27,607 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 12:26:27,725 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 12:26:33,001 +0530 [main] INFO  (LoginTest.java:59) - Clicked on Digi Gold
+2024-07-19 12:26:39,570 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:27:22,575 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:27:55,512 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:27:55,706 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:27:56,003 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:28:01,210 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:28:19,459 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:28:19,734 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 12:28:20,600 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 12:28:20,728 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 12:28:27,282 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:28:49,120 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:29:21,292 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:29:21,471 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:29:21,770 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:29:26,989 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:29:45,209 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:29:45,512 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 12:29:46,422 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 12:29:46,575 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 12:29:51,870 +0530 [main] INFO  (LoginTest.java:59) - Clicked on Digi Gold
+2024-07-19 12:29:58,407 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:30:54,773 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:31:26,885 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:31:27,035 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:31:27,309 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:31:32,516 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:31:50,769 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:31:51,085 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 12:31:51,887 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 12:31:52,041 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 12:31:58,597 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:32:43,851 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:33:16,560 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:33:16,754 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:33:16,997 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:33:22,189 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:33:40,419 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:33:40,714 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 12:33:41,555 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 12:33:41,803 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 12:33:47,155 +0530 [main] INFO  (LoginTest.java:59) - Clicked on Digi Gold
+2024-07-19 12:33:53,712 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:40:19,587 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:40:51,282 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:40:51,363 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:40:51,513 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:40:56,657 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:41:14,756 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:41:16,100 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:41:40,884 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:42:15,831 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:42:15,933 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:42:16,062 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:42:21,205 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:42:39,324 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:42:40,638 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:44:41,796 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:45:00,745 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:45:00,828 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:45:00,961 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:45:05,061 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:45:20,177 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:45:21,545 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:49:48,697 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:50:21,124 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:50:21,194 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:50:21,339 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:50:25,461 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:50:40,580 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:50:41,939 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:52:31,730 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:53:36,376 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:53:36,589 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:53:36,728 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:53:40,843 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:53:55,975 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:53:57,400 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:54:50,984 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:55:23,223 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:55:23,306 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:55:23,436 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:55:27,583 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:55:42,713 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:55:47,820 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 12:55:48,317 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 12:55:48,403 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 12:55:54,871 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 12:56:36,172 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 12:57:06,987 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 12:57:07,096 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 12:57:07,237 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 12:57:11,374 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 12:57:26,497 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 12:57:31,596 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 12:57:32,070 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 12:57:32,150 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 12:57:38,606 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 14:13:48,628 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 14:14:20,786 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 14:14:20,868 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 14:14:21,019 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 14:14:25,130 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 14:14:40,223 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 14:14:45,323 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 14:14:45,818 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 14:14:45,885 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 14:14:52,287 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 14:16:09,635 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 14:16:41,123 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 14:16:41,224 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 14:16:41,368 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 14:16:45,500 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 14:17:00,622 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 14:17:05,734 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 14:17:06,201 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 14:17:06,283 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 14:17:12,686 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 14:18:33,335 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 14:19:14,066 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 14:19:14,167 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 14:19:14,334 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 14:19:18,456 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 14:19:33,566 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 14:19:38,666 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 14:19:39,148 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 14:19:39,214 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 14:19:45,689 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 14:23:31,415 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 14:24:03,362 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 14:24:03,446 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 14:24:03,595 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 14:24:07,722 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 14:24:22,841 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 14:24:27,954 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 14:24:28,413 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 14:24:28,500 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 14:24:34,964 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 14:28:13,380 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 14:28:47,459 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 14:28:47,526 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 14:28:47,659 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 14:28:51,774 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 14:29:06,892 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 14:29:11,983 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 14:29:12,424 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 14:29:12,516 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 14:29:18,946 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 14:40:43,367 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 14:41:14,886 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 14:41:15,053 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 14:41:15,251 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 14:41:19,424 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 14:41:34,551 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 14:41:39,659 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 14:41:40,152 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 14:41:40,252 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 14:41:46,885 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 14:46:36,536 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 14:47:08,854 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 14:47:09,023 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 14:47:09,316 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 14:47:13,511 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 14:47:28,728 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 14:47:34,266 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 14:48:06,822 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 14:48:07,076 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 14:48:07,363 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 14:48:11,583 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 14:48:26,808 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 14:48:33,417 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 15:00:27,431 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 15:01:00,363 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 15:01:00,575 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 15:01:00,828 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 15:01:05,089 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 15:01:20,335 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 15:01:25,540 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 15:01:26,380 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 15:01:26,538 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 15:01:37,009 +0530 [main] INFO  (LoginTest.java:57) - Clicked on Digi Gold
+2024-07-19 15:01:47,384 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 15:03:53,440 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 15:04:26,696 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 15:04:26,859 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 15:04:27,105 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 15:04:31,307 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 15:04:46,529 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 15:04:51,724 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 15:04:52,624 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 15:04:52,783 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 15:05:03,259 +0530 [main] INFO  (LoginTest.java:57) - Clicked on Digi Gold
+2024-07-19 15:05:08,459 +0530 [main] INFO  (LoginTest.java:68) - Enter Quantity of Digi Gold
+2024-07-19 15:05:23,932 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 15:07:41,809 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 15:08:14,955 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 15:08:15,594 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 15:08:15,856 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 15:08:20,049 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 15:08:35,286 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 15:08:40,504 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 15:08:41,705 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 15:08:41,895 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 15:08:52,359 +0530 [main] INFO  (LoginTest.java:57) - Clicked on Digi Gold
+2024-07-19 15:08:57,544 +0530 [main] INFO  (LoginTest.java:68) - Enter Quantity of Digi Gold
+2024-07-19 15:09:04,098 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 15:14:22,998 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 15:14:55,723 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 15:14:55,834 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 15:14:56,085 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 15:15:00,287 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 15:15:15,521 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 15:15:20,741 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 15:15:21,677 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 15:15:21,831 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 15:15:32,324 +0530 [main] INFO  (LoginTest.java:57) - Clicked on Digi Gold
+2024-07-19 15:15:37,501 +0530 [main] INFO  (LoginTest.java:68) - Enter Quantity of Digi Gold
+2024-07-19 15:15:44,077 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 15:19:20,603 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 15:19:52,971 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 15:19:53,073 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 15:19:53,336 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 15:19:57,538 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 15:20:12,747 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 15:20:17,952 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 15:20:18,812 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 15:20:18,985 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 15:20:29,488 +0530 [main] INFO  (LoginTest.java:57) - Clicked on Digi Gold
+2024-07-19 15:20:34,678 +0530 [main] INFO  (LoginTest.java:68) - Enter Quantity of Digi Gold
+2024-07-19 15:20:41,285 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 15:27:58,632 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 15:28:31,192 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 15:28:31,310 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 15:28:31,615 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 15:28:35,871 +0530 [main] INFO  (LoginTest.java:41) - Enter Mobile number
+2024-07-19 15:28:51,095 +0530 [main] INFO  (LoginTest.java:44) - Verify captcha
+2024-07-19 15:28:56,300 +0530 [main] INFO  (LoginTest.java:47) - Click on Generate OTP
+2024-07-19 15:28:57,102 +0530 [main] INFO  (LoginTest.java:49) - Enter OTP
+2024-07-19 15:28:57,288 +0530 [main] INFO  (LoginTest.java:51) - Click submit button
+2024-07-19 15:29:07,793 +0530 [main] INFO  (LoginTest.java:57) - Clicked on Digi Gold
+2024-07-19 15:29:12,981 +0530 [main] INFO  (LoginTest.java:68) - Enter Quantity of Digi Gold
+2024-07-19 15:29:18,220 +0530 [main] INFO  (LoginTest.java:71) - click on 1000 Rs
+2024-07-19 15:29:23,486 +0530 [main] INFO  (LoginTest.java:74) - Click on quick buy
+2024-07-19 15:29:28,510 +0530 [main] INFO  (LoginTest.java:77) - Pay now option selected
+2024-07-19 15:29:33,924 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 15:45:59,148 +0530 [main] INFO  (BaseClass.java:44) - Browser started
+2024-07-19 15:46:32,123 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 15:46:32,232 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 15:46:32,482 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 15:46:32,694 +0530 [main] INFO  (LoginTest.java:39) - Enter Mobile number
+2024-07-19 15:46:32,829 +0530 [main] INFO  (LoginTest.java:42) - Verify captcha
+2024-07-19 15:46:34,368 +0530 [main] INFO  (BaseClass.java:52) - Browser closed
+2024-07-19 15:47:09,418 +0530 [main] INFO  (BaseClass.java:44) - Browser started
+2024-07-19 15:47:41,594 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 15:47:41,807 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 15:47:42,108 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 15:47:42,295 +0530 [main] INFO  (LoginTest.java:39) - Enter Mobile number
+2024-07-19 15:47:57,497 +0530 [main] INFO  (LoginTest.java:43) - Verify captcha
+2024-07-19 15:47:57,638 +0530 [main] INFO  (LoginTest.java:46) - Click on Generate OTP
+2024-07-19 15:47:58,262 +0530 [main] INFO  (LoginTest.java:48) - Enter OTP
+2024-07-19 15:47:58,411 +0530 [main] INFO  (LoginTest.java:50) - Click submit button
+2024-07-19 15:47:58,823 +0530 [main] INFO  (LoginTest.java:56) - Clicked on Digi Gold
+2024-07-19 15:47:59,510 +0530 [main] INFO  (LoginTest.java:59) - Enter Quantity of Digi Gold
+2024-07-19 15:47:59,697 +0530 [main] INFO  (LoginTest.java:62) - click on 1000 Rs
+2024-07-19 15:47:59,910 +0530 [main] INFO  (LoginTest.java:65) - Click on quick buy
+2024-07-19 15:48:00,209 +0530 [main] INFO  (LoginTest.java:68) - Pay now option selected
+2024-07-19 15:48:00,507 +0530 [main] INFO  (BaseClass.java:52) - Browser closed
+2024-07-19 15:52:29,418 +0530 [main] INFO  (BaseClass.java:44) - Browser started
+2024-07-19 15:53:08,867 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 15:53:08,981 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 15:53:09,227 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 15:53:09,408 +0530 [main] INFO  (LoginTest.java:38) - Enter Mobile number
+2024-07-19 15:53:24,663 +0530 [main] INFO  (LoginTest.java:42) - Verify captcha
+2024-07-19 15:53:24,930 +0530 [main] INFO  (LoginTest.java:44) - Click on Generate OTP
+2024-07-19 15:53:25,743 +0530 [main] INFO  (LoginTest.java:46) - Enter OTP
+2024-07-19 15:53:25,908 +0530 [main] INFO  (LoginTest.java:48) - Click submit button
+2024-07-19 15:53:38,005 +0530 [main] INFO  (BaseClass.java:52) - Browser closed
+2024-07-19 16:19:53,083 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 16:20:04,210 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 16:20:43,434 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 16:20:43,573 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 16:20:43,859 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 16:20:44,016 +0530 [main] INFO  (LoginTest.java:38) - Enter Mobile number
+2024-07-19 16:20:59,259 +0530 [main] INFO  (LoginTest.java:42) - Verify captcha
+2024-07-19 16:20:59,542 +0530 [main] INFO  (LoginTest.java:44) - Click on Generate OTP
+2024-07-19 16:21:00,534 +0530 [main] INFO  (LoginTest.java:46) - Enter OTP
+2024-07-19 16:21:00,664 +0530 [main] INFO  (LoginTest.java:48) - Click submit button
+2024-07-19 16:21:02,627 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 16:22:44,736 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 16:23:22,611 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 16:24:02,512 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 16:24:02,655 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 16:24:02,905 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 16:24:03,090 +0530 [main] INFO  (LoginTest.java:38) - Enter Mobile number
+2024-07-19 16:24:18,341 +0530 [main] INFO  (LoginTest.java:42) - Verify captcha
+2024-07-19 16:24:21,218 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 16:25:14,830 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 16:25:49,194 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 16:25:49,324 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 16:25:49,608 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 16:25:49,795 +0530 [main] INFO  (LoginTest.java:38) - Enter Mobile number
+2024-07-19 16:26:05,010 +0530 [main] INFO  (LoginTest.java:42) - Verify captcha
+2024-07-19 16:26:10,230 +0530 [main] INFO  (LoginTest.java:45) - Click on Generate OTP
+2024-07-19 16:26:10,976 +0530 [main] INFO  (LoginTest.java:47) - Enter OTP
+2024-07-19 16:26:11,207 +0530 [main] INFO  (LoginTest.java:49) - Click submit button
+2024-07-19 16:26:16,746 +0530 [main] INFO  (LoginTest.java:55) - Clicked on Digi Gold
+2024-07-19 16:26:17,836 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 16:27:22,203 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 16:28:01,440 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 16:28:01,564 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 16:28:01,821 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 16:28:01,972 +0530 [main] INFO  (LoginTest.java:38) - Enter Mobile number
+2024-07-19 16:28:17,214 +0530 [main] INFO  (LoginTest.java:42) - Verify captcha
+2024-07-19 16:28:22,404 +0530 [main] INFO  (LoginTest.java:45) - Click on Generate OTP
+2024-07-19 16:28:23,135 +0530 [main] INFO  (LoginTest.java:47) - Enter OTP
+2024-07-19 16:28:23,281 +0530 [main] INFO  (LoginTest.java:49) - Click submit button
+2024-07-19 16:28:28,740 +0530 [main] INFO  (LoginTest.java:55) - Clicked on Digi Gold
+2024-07-19 16:28:33,922 +0530 [main] INFO  (LoginTest.java:58) - Enter Quantity of Digi Gold
+2024-07-19 16:28:34,101 +0530 [main] INFO  (LoginTest.java:60) - click on 1000 Rs
+2024-07-19 16:28:34,323 +0530 [main] INFO  (LoginTest.java:62) - Click on quick buy
+2024-07-19 16:28:34,540 +0530 [main] INFO  (LoginTest.java:64) - Pay now option selected
+2024-07-19 16:28:36,064 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
+2024-07-19 16:32:05,398 +0530 [main] INFO  (BaseClass.java:46) - Browser started
+2024-07-19 16:32:44,492 +0530 [main] INFO  (LoginTest.java:29) - open URL
+2024-07-19 16:32:44,618 +0530 [main] INFO  (LoginTest.java:34) - close advertisement popup
+2024-07-19 16:32:44,871 +0530 [main] INFO  (LoginTest.java:36) - Click on signup button
+2024-07-19 16:32:45,039 +0530 [main] INFO  (LoginTest.java:38) - Enter Mobile number
+2024-07-19 16:33:00,269 +0530 [main] INFO  (LoginTest.java:42) - Verify captcha
+2024-07-19 16:33:03,320 +0530 [main] INFO  (BaseClass.java:54) - Browser closed
